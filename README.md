@@ -5,4 +5,6 @@ Analysing surface heat island effect in Delhi, India
 
 ## Surface Heat Island Effect wrt Air Pollution
 
-![](./result/summer_NO2_uhi_dist.jpg) ![](./result/winter_NO2_uhi_dist.jpg)
+Summer             |  Winter
+:-------------------------:|:-------------------------:
+![](./result/summer_NO2_uhi_dist.jpg)  |  ![](./result/winter_NO2_uhi_dist.jpg)
