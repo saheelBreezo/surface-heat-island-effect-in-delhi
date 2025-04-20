@@ -1,4 +1,4 @@
-# Surface Heat Iisland Effect In Delhi
+# Surface Heat Island Effect In Delhi
 Analysing surface heat island effect in Delhi, India
 
 ![](./result/uhi-effect-delhi.png)
