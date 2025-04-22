@@ -1,6 +1,8 @@
 # Surface Heat Island Effect In Delhi
 Analysing surface heat island effect in Delhi, India
 
+The Urban Heat Island effect refers to urban areas experiencing higher temperatures than their rural surroundings due to human activities and infrastructure.
+
 ![](./result/uhi-effect-delhi.png)
 
 ## Surface Heat Island Effect wrt Air Pollution
